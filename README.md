@@ -1,1 +1,1 @@
-# Kaggle-Composition
+# Kaggle-competition
